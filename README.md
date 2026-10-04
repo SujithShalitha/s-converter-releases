@@ -19,7 +19,7 @@ Images, video, audio, documents, PDFs and archives: fast, beautiful, and complet
   <img src="https://img.shields.io/badge/Download%20for%20Windows-Free-7d6cff?style=for-the-badge&logo=windows&logoColor=white" height="44" alt="Download S Converter for Windows">
 </a>
 
-<p><a href="https://sujithshalitha.github.io/"><b>sujithshalitha.github.io</b></a> · the S Converter website</p>
+<p><a href="https://sujithshalitha.github.io/s-converter/"><b>Website</b></a> · made by <a href="https://sujithshalitha.github.io/">SujithSoft</a></p>
 
 <br><br>
 
