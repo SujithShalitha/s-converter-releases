@@ -166,7 +166,7 @@ To turn on the right-click menu in File Explorer, open **Settings** and switch o
 
 ## Updates
 
-S Converter keeps itself up to date. It quietly checks for new versions, downloads them in the background, and shows **Update ready · Restart** when one is ready. If you'd rather not restart now, it installs the next time you quit. You can also check any time, or turn automatic updates off, in **Settings → Updates**.
+S Converter keeps itself up to date automatically. It downloads new versions in the background and installs them on its own when you're not using it, never in the middle of a conversion, then carries on exactly where it was. There's nothing to click. You can see the current version, or check right away, in **Settings → Updates**.
 
 See what changed in each version on the [Releases page](https://github.com/SujithShalitha/s-converter-releases/releases).
 
