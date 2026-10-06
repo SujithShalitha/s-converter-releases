@@ -18,6 +18,10 @@ Images, video, audio, documents, PDFs and archives: fast, beautiful, and complet
 <a href="https://github.com/SujithShalitha/s-converter-releases/releases/latest">
   <img src="https://img.shields.io/badge/Download%20for%20Windows-Free-7d6cff?style=for-the-badge&logo=windows&logoColor=white" height="44" alt="Download S Converter for Windows">
 </a>
+&nbsp;
+<a href="https://apps.microsoft.com/detail/9NKD1BD2RM1X?mode=direct">
+  <img src="https://sujithshalitha.github.io/img/ms-store-badge.svg" height="44" alt="Get it from Microsoft">
+</a>
 
 <p><a href="https://sujithshalitha.github.io/s-converter/"><b>Website</b></a> · made by <a href="https://sujithshalitha.github.io/">SujithSoft</a></p>
 
@@ -158,7 +162,7 @@ Pick the look you like in **Settings → Theme**. The Quick Convert wheel change
 ## Install
 
 1. **Download** the installer: open the [latest release](https://github.com/SujithShalitha/s-converter-releases/releases/latest) and click **S-Converter-Setup-x.x.x.exe** under *Assets*.
-2. **Run it.** Windows may show **"Windows protected your PC"**. Click **More info**, then **Run anyway**. This happens because the installer isn't code-signed yet; it doesn't mean anything is wrong with the file.
+2. **Run it.** Windows may show **"Windows protected your PC"**. Click **More info**, then **Run anyway**. This happens because the installer isn't code-signed yet; it doesn't mean anything is wrong with the file. Prefer no warning? [Get S Converter from the Microsoft Store](https://apps.microsoft.com/detail/9NKD1BD2RM1X?mode=direct) instead.
 3. **Choose where to install.** No administrator rights are needed.
 4. **Open S Converter** from the Start menu or the desktop shortcut, and drop in some files.
 
