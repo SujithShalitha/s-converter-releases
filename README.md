@@ -89,6 +89,8 @@ Select files in File Explorer and press **Ctrl + Alt + C**, or right-click them 
 - Drag the wheel anywhere by its centre
 - Works on folders too: pack them into ZIP, 7Z or RAR in one go
 
+<p align="center"><img src="images/quick-convert.gif" width="720" alt="Quick Convert in action: four photos selected, Ctrl+Alt+C, JPG chosen on the wheel, converted"></p>
+
 <p align="center"><img src="images/wheels.png" width="900" alt="The Quick Convert wheel in four themes"></p>
 
 ### Video, with your graphics card
