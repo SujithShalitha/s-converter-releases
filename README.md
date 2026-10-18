@@ -23,7 +23,7 @@ Images, video, audio, documents, PDFs and archives: fast, beautiful, and complet
   <img src="https://sujithshalitha.github.io/img/ms-store-badge.svg" height="44" alt="Get it from Microsoft">
 </a>
 
-<p><a href="https://sujithshalitha.github.io/s-converter/"><b>Website</b></a> · made by <a href="https://sujithshalitha.github.io/">SujithSoft</a></p>
+<p><a href="https://sujithshalitha.github.io/s-converter/"><b>Website</b></a> · <a href="docs/README.md"><b>Documentation</b></a> · made by <a href="https://sujithshalitha.github.io/">SujithSoft</a></p>
 
 <br><br>
 
@@ -38,13 +38,15 @@ Images, video, audio, documents, PDFs and archives: fast, beautiful, and complet
 - [Why S Converter](#why-s-converter)
 - [Features](#features)
   - [Convert anything, in batches](#convert-anything-in-batches)
+  - [Make it fit: size limits and form photos](#make-it-fit-size-limits-and-form-photos)
   - [Quick Convert, right from File Explorer](#quick-convert-right-from-file-explorer)
   - [Video, with your graphics card](#video-with-your-graphics-card)
   - [Documents, no Office needed](#documents-no-office-needed)
   - [PDF tools](#pdf-tools)
   - [Watermarks](#watermarks)
   - [Archives and passwords](#archives-and-passwords)
-  - [Five themes](#five-themes)
+  - [Four themes](#four-themes)
+- [Documentation](#documentation)
 - [Supported formats](#supported-formats)
 - [Install](#install)
 - [Updates](#updates)
@@ -62,7 +64,7 @@ Images, video, audio, documents, PDFs and archives: fast, beautiful, and complet
 | ⚡ **Fast** | Converts whole folders at once and uses your graphics card for video. |
 | 🧰 **All in one** | Images, video, audio, documents, PDFs and archives in a single app, with no extra software to install. |
 | 🎯 **Two clicks** | Select files in File Explorer, press a shortcut, pick a format. Done. |
-| ✨ **Beautiful** | A modern interface with five themes, from soft glass to classic chrome. |
+| ✨ **Beautiful** | A modern interface with four themes, from soft glass to classic chrome. |
 | 💸 **Free** | No ads, no watermark on your files, no account, no limits. |
 
 <br>
@@ -79,15 +81,27 @@ When it's finished you see exactly what was made and how much space you saved, w
 
 <p align="center"><img src="images/done.png" width="820" alt="Conversion complete"></p>
 
+### Make it fit: size limits and form photos
+
+Upload forms say *under 100 KB*, email stops at 20 MB. Switch **Quality** to **Max size**, pick the limit, and S Converter finds the best quality that fits.
+
+- Photos under 100 KB, 200 KB, 1 MB or any limit you type; videos under 20 MB for email, 16 MB for WhatsApp
+- **Form photo**: US visa (600 × 600 px, under 240 KB), passport 35 × 45 mm, 2 × 2 inch, or your own size, cropped around the face
+- **Recipes**: save a preset that converts, renames and packs everything into one ZIP or PDF
+
+[How it works →](docs/make-it-fit.md)
+
 ### Quick Convert, right from File Explorer
 
-Select files in File Explorer and press **Ctrl + Alt + C**, or right-click them and choose **S Converter → Quick Convert…**. A wheel opens right at your mouse: point at a format and click. The app doesn't even need to open.
+Select files in File Explorer, on the desktop or in any Open or Save dialog and press **Ctrl + Alt + C**, or right-click them and choose **S Converter → Quick Convert…**. A wheel opens right at your mouse: point at a format and click. The app doesn't even need to open.
 
 - **Formats** and **Presets** pages, with presets like *Email*, *WhatsApp*, *Make GIF*, *Get Audio* and *Locked ZIP*
 - Several photos to PDF asks whether you want one PDF or one per photo
 - Keyboard friendly: numbers pick a slice, **Tab** switches pages, **Esc** closes
 - Drag the wheel anywhere by its centre
 - Works on folders too: pack them into ZIP, 7Z or RAR in one go
+- **Paste as…**: with nothing selected, it converts the image on the clipboard and copies the result back
+- Several photos to one PDF opens a **Page order** screen, so the pages come out the way you want
 
 <p align="center"><img src="images/quick-convert.gif" width="720" alt="Quick Convert in action: four photos selected, Ctrl+Alt+C, JPG chosen on the wheel, converted"></p>
 
@@ -139,11 +153,19 @@ Add your name or logo to photos and videos. Drag it where you want it on a live 
 - **Protect them with a password:** ZIP uses AES-256 encryption; 7Z (with 7-Zip) and RAR (with WinRAR) hide the file names as well
 - **Extract** ZIP, 7Z, RAR, TAR, ISO and CAB files, including password-protected ones, without the pointless extra folder
 
-### Five themes
+### Four themes
 
 Pick the look you like in **Settings → Theme**. The Quick Convert wheel changes with it.
 
 <p align="center"><img src="images/themes.png" width="900" alt="Lumen, Aether, Frost, Silver and Gel themes"></p>
+
+<br>
+
+## Documentation
+
+The full user guide is in [docs/](docs/README.md) and on the [website](https://sujithshalitha.github.io/s-converter/docs/):
+
+[Install and update](docs/install.md) · [Convert files](docs/convert.md) · [Quick Convert wheel](docs/quick-convert.md) · [Right-click menu](docs/right-click.md) · [Presets and recipes](docs/presets-recipes.md) · [Keyboard shortcuts](docs/shortcuts.md) · [Make it fit](docs/make-it-fit.md) · [Trim, watermark and rename](docs/edit.md) · [PDF tools](docs/pdf-tools.md) · [Archives](docs/archives.md) · [Watch folders and history](docs/watch-history.md) · [Privacy](docs/privacy.md) · [Settings](docs/settings.md) · [Supported formats](docs/formats.md) · [Troubleshooting](docs/troubleshooting.md)
 
 <br>
 
@@ -222,7 +244,7 @@ Windows Settings → Apps → Installed apps → S Converter → Uninstall. The 
 
 ## Requirements
 
-- Windows 10 (version 1803 or newer) or Windows 11, 64-bit
+- Windows 10 (version 1809 or newer) or Windows 11, 64-bit
 - About 600 MB of free disk space
 - Optional: an NVIDIA, Intel or AMD graphics card for faster video; WinRAR to create RAR files; 7-Zip for password-protected 7Z
 
