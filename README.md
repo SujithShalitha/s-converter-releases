@@ -4,8 +4,8 @@
 
 # S Converter
 
-**The all-in-one file converter for Windows.**<br>
-Images, video, audio, documents, PDFs and archives: fast, beautiful, and completely offline.
+**The free, offline file converter for Windows 11 and 10.**<br>
+HEIC to JPG, video to MP4 or MP3, Word to PDF, photos under 100 KB, PDF tools and password ZIPs: fast, beautiful, and completely offline. No upload, no watermark, no limits.
 
 [![Latest version](https://img.shields.io/github/v/release/SujithShalitha/s-converter-releases?label=latest&color=7d6cff&style=flat-square)](https://github.com/SujithShalitha/s-converter-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/SujithShalitha/s-converter-releases/total?color=4f9dff&style=flat-square)](https://github.com/SujithShalitha/s-converter-releases/releases)
