@@ -5,13 +5,13 @@ Open **PDF Tools** on the left and choose a tool at the top.
 | Tool | What it does | Saved as |
 |---|---|---|
 | Images → PDF | JPG, PNG, WebP, BMP or TIFF into one PDF, or one PDF per image | `name.pdf` |
-| PDF → Images | every page as a sharp JPG | `name_page-1.jpg` … |
+| PDF → Images | every page as a sharp JPG | `nameSC_page1.jpg`, `nameSC_page2.jpg` … |
 | Merge | several PDFs into one, top to bottom; reorder with ▲ ▼ | `name_merged.pdf` |
 | Split | page ranges like `1-3, 4-9`, or one PDF per page | one PDF per range |
 | Compress | shrinks the photos inside; text stays sharp | `name_compressed.pdf` |
 | Rotate | turns every page a quarter, either way | `name_rotated.pdf` |
 | Page numbers | adds "Page 1 of 9" or similar at the bottom | `name_numbered.pdf` |
-| Extract pages | keeps only the pages you list, in that order (`9-` means 9 to the end) | `name_extract.pdf` |
+| Extract pages | keeps only the pages you list, in that order (`9-` means 9 to the end) | `name_pages.pdf` |
 | Lock | adds a password, AES-256 | `name_locked.pdf` |
 | Unlock | removes a password you know, and editing limits | `name_unlocked.pdf` |
 
